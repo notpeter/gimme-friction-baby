@@ -31,9 +31,8 @@ All of the Game code is within [scripts/frame_10/DoAction.as](scripts/frame_10/D
 
 ## Play Online Today
 
-With the advent of [Ruffle](https://github.com/ruffle-rs/ruffle) the game is again
-playable on the web leveraging webassembly without requiring the legacy flash player
-on a number of sites:
+Browsers can no longer play SWF, but with the advent of [Ruffle](https://github.com/ruffle-rs/ruffle)
+the game is again playable on the web. It's available on a number sites:
 
 * https://archive.org/details/gimmefrictionbaby_flash
 * http://www.addictinggames.com/gimmefrictionbaby.html
