@@ -40,5 +40,6 @@ the game is again playable on the web. It's available on a number sites:
 
 ## Ports and adaptions:
 
+* [Gimme Friction Baby (Tribute) for Playdate](https://notpeter.itch.io/gimme-friction-baby/)
 * [Orbital iPhone](https://apps.apple.com/us/app/orbital/id324012853)
 * [Orbital XBox Live](https://www.microsoft.com/en-us/p/orbital/9wzdncrcx4bv?activetab=pivot:overviewtab)
