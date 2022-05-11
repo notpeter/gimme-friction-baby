@@ -3,6 +3,8 @@
 Disassembled Source code for Gimme Friction Baby,
 a shockwave flash game by Wouter Visser.
 
+![image](https://user-images.githubusercontent.com/145113/167768822-3be16b90-3506-4bcf-93da-1652de2c0b01.png)
+
 ## What is Gimme Friction Baby
 
 Originally created for Jay is Games Casual Gameplay Design Competition 3 (CGDC3)
@@ -36,3 +38,8 @@ on a number of sites:
 * https://archive.org/details/gimmefrictionbaby_flash
 * http://www.addictinggames.com/gimmefrictionbaby.html
 * https://www.engineering.com/GamesPuzzles/GimmeFrictionBaby/tabid/4711/Default.aspx
+
+## Ports and adaptions:
+
+* [Orbital iPhone](https://apps.apple.com/us/app/orbital/id324012853)
+* [Orbital XBox Live](https://www.microsoft.com/en-us/p/orbital/9wzdncrcx4bv?activetab=pivot:overviewtab)
